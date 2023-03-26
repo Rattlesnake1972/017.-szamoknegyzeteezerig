@@ -1,0 +1,6 @@
+C:\Users\gratt\source\repos\017. szamoknegyzeteezerig\017. szamoknegyzeteezerig\bin\Debug\_017.szamoknegyzeteezerig.exe.config
+C:\Users\gratt\source\repos\017. szamoknegyzeteezerig\017. szamoknegyzeteezerig\bin\Debug\_017.szamoknegyzeteezerig.exe
+C:\Users\gratt\source\repos\017. szamoknegyzeteezerig\017. szamoknegyzeteezerig\bin\Debug\_017.szamoknegyzeteezerig.pdb
+C:\Users\gratt\source\repos\017. szamoknegyzeteezerig\017. szamoknegyzeteezerig\obj\Debug\017. szamoknegyzeteezerig.csproj.CoreCompileInputs.cache
+C:\Users\gratt\source\repos\017. szamoknegyzeteezerig\017. szamoknegyzeteezerig\obj\Debug\_017.szamoknegyzeteezerig.exe
+C:\Users\gratt\source\repos\017. szamoknegyzeteezerig\017. szamoknegyzeteezerig\obj\Debug\_017.szamoknegyzeteezerig.pdb
